@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SOUINIDA
 - 👀 I’m interested in digital fields, network security, and ethical hacking.
-- 🌱 I’m currently studying dev informatique at a private institute 
+- 🌱 I’m currently studying "dev informatique" at a private institute 
 - 💞️ I’m looking to collaborate on beginner-friendly software development projects to gain more experience and improve my skills.
 - 📫 How to reach me: You can reach me here or through my email = souinidaamine@gmail.com.
 - 😄 Pronouns: He
